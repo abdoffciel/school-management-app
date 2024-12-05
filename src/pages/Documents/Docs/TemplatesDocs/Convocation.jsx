@@ -1,4 +1,3 @@
-import React from 'react';
 import { Building2, Calendar, User, Users2 } from 'lucide-react';
 
 const Convocation = ({ name, date, group }) => {
